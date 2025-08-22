@@ -10,20 +10,19 @@ Each semester is organized by weeks, with folders for practice programs, homewor
 ├── FOLDER_STRUCTURE.md
 ├── README.md
 ├── Sem 2
-│   ├── Extra Practice Program
-│   ├── Learning Programing
-│   └── Practice Program
-├── Sem 3
-│   ├── WEEK_1
-│   └── WEEK_2
+│   └── Extra Practice Program
+├── Learning Programing
+│   ├── Practice Program
+│   └── Sem 3
+│       ├── WEEK_1
+│       └── WEEK_2
 ├── StringManipulation.class
 ├── StringManipulation.java
 ├── WEEK_1
-│   ├── HomeWork
-│   ├── Lab
-│   └── Practice
+│   ├── HomeWork
+│   └── Lab
 └── WEEK_2
-    └── Practice
+└── Practice
 
 ---
 
