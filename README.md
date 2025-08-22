@@ -5,25 +5,32 @@ Each semester is organized by weeks, with folders for practice programs, homewor
 
 ---
 
-## 📂 Folder Structure
+# 📂 Folder Structure
+```
 .
 ├── FOLDER_STRUCTURE.md
 ├── README.md
 ├── Sem 2
-│   └── Extra Practice Program
-├── Learning Programing
-│   ├── Practice Program
-│   └── Sem 3
-│       ├── WEEK_1
-│       └── WEEK_2
-├── StringManipulation.class
-├── StringManipulation.java
-├── WEEK_1
-│   ├── HomeWork
-│   └── Lab
-└── WEEK_2
-└── Practice
-
+│   ├── Extra_Practice_Program
+│   │   └── Week 1
+│   ├── Learning_Programming
+│   │   ├── DistanceCompute.java
+│   │   ├── PassFail.java
+│   │   └── UserInputTest.java
+│   └── Practice_Program
+│       ├── Week 1 [JAVA PROGRAMMING ELEMENTS]
+│       ├── Week 2 [JAVA CONTROL FLOWS CONCEPTS]
+│       ├── Week 3 [JAVA ARRAYS]
+│       ├── Week 4 [JAVA METHODS]
+│       └── Week 5 [JAVA STRINGS]
+├── Sem 3
+│   ├── WEEK_1
+│   │   ├── HomeWork
+│   │   ├── Lab
+│   │   └── Practice
+│   └── WEEK_2
+│       └── Practice
+```
 ---
 
 ## 📘 Semester 2
@@ -62,9 +69,12 @@ Each semester is organized by weeks, with folders for practice programs, homewor
 1. Compile a Java file:
    ```bash
    javac FileName.java
+   ```
 
 2. Run the program:
+   ```bash
    java FileName
+   ```
 
 ---
 
