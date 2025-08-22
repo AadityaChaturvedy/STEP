@@ -1,0 +1,42 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Java compiled files
+*.class
+
+# Java package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE-specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VSCode
+.vscode/
+
+# Other possible caches
+target/
+build/
+.gradle/
+.mvn/
