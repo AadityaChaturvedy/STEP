@@ -7,27 +7,23 @@ Each semester is organized by weeks, with folders for practice programs, homewor
 
 ## 📂 Folder Structure
 .
+├── FOLDER_STRUCTURE.md
 ├── README.md
 ├── Sem 2
-│   ├── Extra_Practice_Program
-│   │   └── Week_1
-│   ├── Learning_Programming
-│   │   ├── DistanceCompute.java
-│   │   ├── PassFail.java
-│   │   └── UserInputTest.java
-│   └── Practice_Program
-│       ├── Week_1_Java_Programming_Elements
-│       ├── Week_2_Java_Control_Flows_Concepts
-│       ├── Week_3_Java_Arrays
-│       ├── Week_4_Java_Methods
-│       └── Week_5_Java_Strings
-└── Sem 3
+│   ├── Extra Practice Program
+│   ├── Learning Programing
+│   └── Practice Program
+├── Sem 3
+│   ├── WEEK_1
+│   └── WEEK_2
+├── StringManipulation.class
+├── StringManipulation.java
 ├── WEEK_1
-│   ├── HomeWork
-│   ├── Lab
-│   └── Practice
+│   ├── HomeWork
+│   ├── Lab
+│   └── Practice
 └── WEEK_2
-└── Practice
+    └── Practice
 
 ---
 
