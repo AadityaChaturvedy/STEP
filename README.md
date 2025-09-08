@@ -77,9 +77,3 @@ Each semester is organized by weeks, with folders for practice programs, homewor
    ```
 
 ---
-
-👉 This `README.md` gives you:
-- **Folder tree** (so viewers see repo structure at a glance).
-- **Clickable links** to each week/program.
-- **How to run** instructions.
-- Clean **semester breakdown**.
