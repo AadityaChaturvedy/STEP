@@ -1,14 +1,13 @@
-# STEP Bootcamp Repository
+🎒 STEP Bootcamp Repository
 
-This repository contains my programming practice and coursework for Semester 2 and Semester 3.  
-Each semester is organized by weeks, with folders for practice programs, homework, and lab work.
+This is my programming practice and coursework vault for Semester 2 and 3!
+📚 Organized week-wise by semester with ready-to-run, clearly structured folders for easy navigation.
 
 ---
 
 # 📂 Folder Structure
 ```
 .
-├── FOLDER_STRUCTURE.md
 ├── README.md
 ├── Sem 2
 │   ├── Extra_Practice_Program
@@ -29,7 +28,17 @@ Each semester is organized by weeks, with folders for practice programs, homewor
 │   │   ├── Lab
 │   │   └── Practice
 │   └── WEEK_2
-│       └── Practice
+│   │   ├── HomeWork
+│   │   ├── Lab
+│   │   └── Practice
+│   └── WEEK_3
+│   │   ├── HomeWork
+│   │   ├── Lab
+│   │   └── Practice
+│   └── WEEK_4
+│   │   ├── HomeWork
+│   │   ├── Lab
+│   │   └── Practice
 ```
 ---
 
@@ -60,8 +69,19 @@ Each semester is organized by weeks, with folders for practice programs, homewor
 - [Practice](Sem%203/WEEK_1/Practice)
 
 ### 🔹 Week 2
+- [Homework](Sem%203/WEEK_2/HomeWork)
+- [Lab](Sem%203/WEEK_2/Lab)
 - [Practice](Sem%203/WEEK_2/Practice)
 
+### 🔹 Week 3
+- [Homework](Sem%203/WEEK_3/HomeWork)
+- [Lab](Sem%203/WEEK_3/Lab)
+- [Practice](Sem%203/WEEK_3/Practice)
+
+### 🔹 Week 4
+- [Homework](Sem%203/WEEK_4/HomeWork)
+- [Lab](Sem%203/WEEK_4/Lab)
+- [Practice](Sem%203/WEEK_4/Practice)
 ---
 
 ## 🚀 How to Run the Programs
