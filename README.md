@@ -39,6 +39,10 @@ This is my programming practice and coursework vault for Semester 2 and 3!
 │   │   ├── HomeWork
 │   │   ├── Lab
 │   │   └── Practice
+│   └── WEEK_5
+│   │   ├── HomeWork
+│   │   ├── Lab
+│   │   └── Practice
 ```
 ---
 
@@ -82,6 +86,11 @@ This is my programming practice and coursework vault for Semester 2 and 3!
 - [Homework](Sem%203/WEEK_4/HomeWork)
 - [Lab](Sem%203/WEEK_4/Lab)
 - [Practice](Sem%203/WEEK_4/Practice)
+
+### 🔹 Week 5
+- [Homework](Sem%203/WEEK_5/HomeWork)
+- [Lab](Sem%203/WEEK_5/Lab)
+- [Practice](Sem%203/WEEK_5/Practice)
 ---
 
 ## 🚀 How to Run the Programs
