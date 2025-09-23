@@ -12,7 +12,7 @@ This is my programming practice and coursework vault for Semester 2 and 3!
 ├── Sem_2
 │   ├── Extra Practice Program
 │   │   └── Week_1
-│   ├── Learning Programing
+│   ├── Learning Programming
 │   │   ├── DistanceCompute.class
 │   │   ├── DistanceCompute.java
 │   │   ├── PassFail.class
