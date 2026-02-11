@@ -41,16 +41,16 @@ A quick overview of how this vault is organized:
 
 | Week | Topic | Key Concepts |
 | --- | --- | --- |
-| **Week 1** | [Java Programming Elements](https://www.google.com/search?q=Sem_2/Practice_Program/Week_1_%5BJAVA_PROGRAMMING_ELEMENTS%5D) | Variables, Data Types, Operators |
-| **Week 2** | [Control Flow Concepts](https://www.google.com/search?q=Sem_2/Practice_Program/Week_2_%5BJAVA_CONTROL_FLOWS_CONCEPTS%5D) | If-Else, Switch, Loops, Logic |
-| **Week 3** | [Arrays](https://www.google.com/search?q=Sem_2/Practice_Program/Week_3_%5BJAVA_ARRAYS%5D) | 1D/2D Arrays, Iteration, Memory |
-| **Week 4** | [Methods](https://www.google.com/search?q=Sem_2/Practice_Program/Week_4_%5BJAVA_METHODS%5D) | Function Modularization, Return Types |
-| **Week 5** | [Strings](https://www.google.com/search?q=Sem_2/Practice_Program/Week_5_%5BJAVA_STRINGS%5D) | String Manipulation, StringBuilder |
+| **Week 1** | [Java Programming Elements](Sem_2/Practice_Program/Week_1_%5BJAVA_PROGRAMMING_ELEMENTS%5D) | Variables, Data Types, Operators |
+| **Week 2** | [Control Flow Concepts](Sem_2/Practice_Program/Week_2_%5BJAVA_CONTROL_FLOWS_CONCEPTS%5D) | If-Else, Switch, Loops, Logic |
+| **Week 3** | [Arrays](Sem_2/Practice_Program/Week_3_%5BJAVA_ARRAYS%5D) | 1D/2D Arrays, Iteration, Memory |
+| **Week 4** | [Methods](Sem_2/Practice_Program/Week_4_%5BJAVA_METHODS%5D) | Function Modularization, Return Types |
+| **Week 5** | [Strings](Sem_2/Practice_Program/Week_5_%5BJAVA_STRINGS%5D) | String Manipulation, StringBuilder |
 
 ### 🔹 Learning & Extra Practice
 
-* **[Learning Programming](https://www.google.com/search?q=Sem_2/Learning_Programming/)**: Introductory scripts (e.g., `DistanceCompute.java`, `PassFail.java`).
-* **[Extra Practice - Week 1](https://www.google.com/search?q=Sem_2/Extra_Practice_Program/Week_1)**: Additional logic building exercises.
+* **[Learning Programming](Sem_2/Learning_Programming/)**: Introductory scripts (e.g., `DistanceCompute.java`, `PassFail.java`).
+* **[Extra Practice - Week 1](Sem_2/Extra_Practice_Program/Week_1)**: Additional logic building exercises.
 
 ---
 
@@ -60,12 +60,12 @@ A quick overview of how this vault is organized:
 
 | Module | Link |
 | --- |  --- |
-| **Week 1** | [📂 View](https://www.google.com/search?q=Sem_3/WEEK_1) |
-| **Week 2** | [📂 View](https://www.google.com/search?q=Sem_3/WEEK_2) |
-| **Week 3** | [📂 View](https://www.google.com/search?q=Sem_3/WEEK_3) |
-| **Week 4** | [📂 View](https://www.google.com/search?q=Sem_3/WEEK_4) |
-| **Week 5** | [📂 View](https://www.google.com/search?q=Sem_3/WEEK_5) |
-| **Week 6** | [📂 View](https://www.google.com/search?q=Sem_3/WEEK_6) |
+| **Week 1** | [📂 View](Sem_3/WEEK_1) |
+| **Week 2** | [📂 View](Sem_3/WEEK_2) |
+| **Week 3** | [📂 View](Sem_3/WEEK_3) |
+| **Week 4** | [📂 View](Sem_3/WEEK_4) |
+| **Week 5** | [📂 View](Sem_3/WEEK_5) |
+| **Week 6** | [📂 View](Sem_3/WEEK_6) |
 
 ---
 
