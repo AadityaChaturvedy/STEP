@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * ===========================================================================
  * MAIN CLASS - UseCase3PalindromeCheckerApp
