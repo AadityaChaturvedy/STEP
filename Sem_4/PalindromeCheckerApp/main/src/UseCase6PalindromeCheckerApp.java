@@ -3,7 +3,7 @@
  * MAIN CLASS - UseCase6PalindromeCheckerApp
  * ===========================================================================
  *
- * Use Case 6: Stack Based Palindrome Checker
+ * Use Case 6: Queue + Stack Fairness Check
  *
  * Description:
  * This class demonstrates palindrome validation using
