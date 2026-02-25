@@ -2,9 +2,9 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
-![Course](https://img.shields.io/badge/Course-STEP%20Bootcamp-blue?style=for-the-badge)
+![Course](https://img.shields.io/badge/Course-STEP%20Program-blue?style=for-the-badge)
 
-> **Welcome to my code vault!** > This repository documents my programming journey through Semester 2 and 3 of the STEP Bootcamp. Here, you will find organized coursework, practice problems, and extra challenges designed to master core concepts.
+> **Welcome to my code vault!** > This repository documents my programming journey through Semester 2, 3 and 4 of the STEP Program. Here, you will find organized coursework, practice problems, and extra challenges designed to master core concepts.
 
 ---
 
@@ -26,8 +26,11 @@ A quick overview of how this vault is organized:
 │   ├── Learning Programming (Basics)
 │   ├── Practice Program (Core Java Concepts)
 │   └── Extra Practice Program (Challenges)
-└── Sem_3
-    └── Weekly Modules (Advanced Topics)
+├── Sem_3
+│   └── Weekly Modules (Advanced Topics)
+└── Sem_4
+    ├── HelloApp
+    └── PalindromeCheckerApp
 
 ```
 
@@ -68,7 +71,16 @@ A quick overview of how this vault is organized:
 | **Week 6** | [📂 View](Sem_3/WEEK_6) |
 
 ---
+## 📗 Semester 4: App Development
 
+*Focus: Deepening technical skills and tackling complex problems.*
+
+| Module                     | Link                                  |
+|----------------------------|---------------------------------------|
+| **Hello App**              | [📂 View](Sem_4/HelloApp)             |
+| **Palindrome Checker App** | [📂 View](Sem_4/PalindromeCheckerApp) |
+
+---
 ## 🛠️ How to Run
 
 To run any program in this repository, ensure you have the **Java Development Kit (JDK)** installed.
@@ -98,7 +110,7 @@ java FileName
 ---
 
 <p align="center">
-<i>Made with ❤️ by Aaditya Chaturvedy during the STEP Bootcamp</i>
+<i>Made with ❤️ by Aaditya Chaturvedy during the STEP Program</i>
 </p>
 
 
